@@ -1,1 +1,1 @@
-First attempt to lear rust
+First attempt to learn rust
